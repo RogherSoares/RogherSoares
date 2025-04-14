@@ -23,6 +23,19 @@ Sou um entusiasta da tecnologia com 27 anos, atualmente construindo minha trajet
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+
+---
+
+## 🚧 Projetos em destaque
+
+### 🍔 Cardápio Interativo de Fast Food  
+Projeto de front-end desenvolvido com **HTML**, **CSS** e **JavaScript**, simulando um cardápio de lanchonete com categorias, navegação entre itens e design responsivo. Idealizado como parte dos estudos em **desenvolvimento web**.  
+🔗 [Ver no GitHub](https://github.com/RogherSoares/Fastfood)
+
+### 🎤 Página de Evento Tech  
+Landing page moderna e responsiva criada com **HTML**, **CSS** e **JavaScript**, destacando informações sobre palestrantes e programação de um evento fictício de tecnologia.  
+🔗 [Ver no GitHub](https://github.com/RogherSoares/Evento-Tech)
+
 ---
 
 ## 🧩 Competências
@@ -37,7 +50,7 @@ Sou um entusiasta da tecnologia com 27 anos, atualmente construindo minha trajet
 ---
 
 
-### 🤝 Soft Skills
+### 🤝 Competências Comportamentais
 - Comunicação clara
 - Proatividade
 - Resiliência
@@ -47,7 +60,7 @@ Sou um entusiasta da tecnologia com 27 anos, atualmente construindo minha trajet
 
 ---
 
-## 💼 Experiências
+## 💼 Experiência Profissional
 
 - **Autônomo - Entregas**  
   _Ativa Express (2022 - 2024)_: Responsabilidade, pontualidade e controle financeiro  
