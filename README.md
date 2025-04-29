@@ -38,50 +38,8 @@ Landing page moderna e responsiva criada com **HTML**, **CSS** e **JavaScript**,
 
 ---
 
-## 🧩 Competências
-
-- Raciocínio lógico e habilidades analíticas  
-- Organização e controle de processos  
-- Comunicação presencial e remota  
-- Trabalho em equipe e autonomia  
-- Conhecimentos básicos em DOM e SEO para Front-end  
-- Controle financeiro e gestão de tempo
-
----
-
-
-### 🤝 Competências Comportamentais
-- Comunicação clara
-- Proatividade
-- Resiliência
-- Empatia
-- Organização
-
-
----
-
-## 💼 Experiência Profissional
-
-- **Autônomo - Entregas**  
-  _Ativa Express (2022 - 2024)_: Responsabilidade, pontualidade e controle financeiro  
-- **Repositor - Grupo Muffato**  
-  _(2021 - 2022)_: Atendimento ao público, trabalho em equipe  
-- **Almoxarifado - A.Yoshii**  
-  _(2013 - 2015)_: Organização, planilhas, metas e ferramentas de trabalho
-
----
-
 🎯 Busco minha primeira oportunidade na área de TI com foco em desenvolvimento front-end.  
 Tenho grande interesse em participar de projetos inovadores, aprender com profissionais experientes e contribuir com soluções criativas e eficientes.
-
----
-
-## 📚 Educação
-
-- **Análise e Desenvolvimento de Sistemas** - Unicesumar (2024 - 2026)  
-- Engenharia Civil (trancado) - UNOPAR  
-- Ensino Médio Completo - Colégio Estadual Olympia de Morais Tormenta
-
 
 ---
 
