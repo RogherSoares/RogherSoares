@@ -32,9 +32,9 @@ Sou um entusiasta da tecnologia com 27 anos, atualmente construindo minha trajet
 Projeto de front-end desenvolvido com **HTML**, **CSS** e **JavaScript**, simulando um cardápio de lanchonete com categorias, navegação entre itens e design responsivo. Idealizado como parte dos estudos em **desenvolvimento web**.  
 🔗 [Ver no GitHub](https://github.com/RogherSoares/Fastfood)
 
-### 🎤 Página de Evento Tech  
-Landing page moderna e responsiva criada com **HTML**, **CSS** e **JavaScript**, destacando informações sobre palestrantes e programação de um evento fictício de tecnologia.  
-🔗 [Ver no GitHub](https://github.com/RogherSoares/Evento-Tech)
+### 🎗 Ponte Solidária 
+Ponte Solidária é uma plataforma web desenvolvida para aproximar **ONGs** e **voluntários**, facilitando o cadastro, a divulgação e a busca por **oportunidades de ajuda** na comunidade. O projeto nasceu com o objetivo de construir pontes entre quem precisa e quem deseja ajudar, de forma prática, transparente e acolhedora.  
+🔗 [Ver no GitHub](https://github.com/RogherSoares/projetoVoluntario)
 
 ---
 
